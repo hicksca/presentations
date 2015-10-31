@@ -3,7 +3,9 @@ Presentations
 
 This is just a repo for staching presentations I'm working on.
 
-- **mosh** (ssh replacement)   
+ - site (Hugo site hosting ravealjs presentations) 
+
+ - **mosh** (ssh replacement)   
   (Orginally given at EVLUG 20150821 meeting; both pdf and md markup-file)
 
 ---
