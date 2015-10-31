@@ -6,11 +6,13 @@ This is just a repo for staching presentations I'm working on.
   - site/  
     *([Hugo][1] site hosting [ravealjs][2] presentations)*  
 
-  Presentations
-  -------------
+Slides/Markdown source
+----------------------
   
-    - **mosh** (ssh replacement)   
-      *(Orginally given at EVLUG 20150821 meeting; both pdf and md markup-file)*
+### Open Source Tools 
+  
+  - **mosh** (ssh replacement)
+    *(Orginally given at EVLUG 20150821 meeting; both pdf and md markup-file)*
 
 ---
 Copyright (c) 2015 - Carl Hicks - All rights reserved.
