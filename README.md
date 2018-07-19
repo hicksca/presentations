@@ -12,7 +12,7 @@ Slides/Markdown source
 ### Open Source Tools 
   
   - **mosh** (ssh replacement)
-    *(Orginally given at EVLUG 20150821 meeting; both pdf and md markup-file)*
+    *( Orginally given at EVLUG 20150821 meeting; both pdf and md markup-file )*
 
 ---
 Copyright (c) 2015 - Carl Hicks - All rights reserved.
